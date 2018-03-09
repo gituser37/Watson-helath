@@ -8,12 +8,7 @@
   <packaging>jar</packaging>
   <name>Cobertura code coverage</name>
   
-  <parent>
-    <groupId>org.sonatype.oss</groupId>
-    <artifactId>oss-parent</artifactId>
-    <version>7</version>
-    <relativePath />
-  </parent>
+  
   
   <description>
     Cobertura is a free Java tool that calculates the percentage of
